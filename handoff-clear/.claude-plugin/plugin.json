@@ -1,0 +1,8 @@
+{
+  "name": "handoff-clear",
+  "version": "0.1.0",
+  "description": "/handoff-clear: write a handoff, /clear, and resume from it in the fresh context",
+  "author": { "name": "Jaromír Svoboda" },
+  "license": "MIT",
+  "repository": "https://github.com/jaromirsvoboda/claude-mods"
+}

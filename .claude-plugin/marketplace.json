@@ -1,0 +1,5 @@
+{
+  "name": "jaromir-mods",
+  "owner": { "name": "Jaromír Svoboda" },
+  "plugins": [{ "name": "handoff-clear", "source": "./handoff-clear" }]
+}
